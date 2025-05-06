@@ -94,4 +94,5 @@ http://localhost:5173
 [MIT](LICENSE)
 
 ---
+<img width="1421" alt="Screenshot 2025-05-06 at 11 46 17 PM" src="https://github.com/user-attachments/assets/d09d668e-ccf5-4b17-b1a1-95d5cfe7e09c" />
 
